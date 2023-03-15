@@ -1,0 +1,50 @@
+.para {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.flex8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    row-gap: 20px;
+}
+.para1 {
+    width: 50%;
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #727272
+}
+.comment__slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -moz-column-gap: 50px;
+    column-gap: 50px;
+}
+.previous {
+    display: flex;
+}
+.prev {
+    width: 50px;
+    height: 50px;
+    background-color: #FF7629;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    border-radius: 50px;
+}
+.next1 {
+    width: 50px;
+    height: 50px;
+    background-color: #FF7629;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    border-radius: 50px;
+}

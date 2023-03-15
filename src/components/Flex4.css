@@ -1,0 +1,85 @@
+.textfield {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.occasion__card1__4 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+    color: #FF7629;
+}
+
+.occasion__card1__3 {
+    width: 200px;
+    padding-left: 30px;
+    padding-right: 10px;
+    color: #676767;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+}
+.occasion__card1__2 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 20px;
+}
+.occasion__card1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #cecece;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.occasion {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.btn1 {
+    color: #fff;
+    background-color: #FF7629;
+    padding: 10px 25px 10px 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: none;
+    border-color: #1890ff;
+    cursor: pointer;
+    user-select: none;
+    font-family: DM Sans;
+}
+.btn2 {
+    color: #000000;
+    background-color: #ffffff;
+    padding: 10px 25px 10px 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #cccccc;
+    cursor: pointer;
+    user-select: none;
+    font-family: DM Sans;
+}
+.btn__group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0 20px 0;
+    gap: 20px;
+}

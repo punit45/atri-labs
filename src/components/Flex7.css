@@ -1,0 +1,41 @@
+.flex7 {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    background-color: #FF7629;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 90px 0 100px 150px;
+    row-gap: 33px;
+    box-sizing: border-box;
+}
+.left__para {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 38px;
+    color: #ffffff;
+    max-width: 80%;
+}
+
+.left__para2 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+    max-width: 80%;
+    color: #fffafa;
+}
+.btn-grp {
+    display: flex;
+    column-gap: 30px;
+}
+.right {
+    display: flex;
+}
+.logo_right {
+    width: 100%;
+}
